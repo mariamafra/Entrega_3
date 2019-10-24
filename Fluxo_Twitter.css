@@ -1,0 +1,126 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.quem_retweetou {
+    color: rgba(101, 119, 134, 1);
+    margin-left: 10px;
+    margin-top: 17px;
+    margin-bottom: 10px;
+}
+
+.icone {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.imagem {
+    height: 315px;
+    width: 600px;
+    margin-left: 60px;
+    margin-top: 25px;
+    border-radius: 14px;
+    margin-top: -4;
+}
+
+.div2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.paragrafo1{
+    margin-left: 10px;
+    margin-top: -15px;
+}
+
+.icone_retweet{
+    fill: rgba(136, 153, 166, 1);
+    height: 18.75px;
+    width: 15px;
+    margin-top: 18px;
+    margin-left: 35px;
+}
+
+.div1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.icone_seta{
+    fill: rgba(136, 153, 166, 1);
+    height: 18.75px;
+    width: 15px;
+    margin-top: 5px;
+    margin-left: 250px;
+}
+
+.usuario {
+    color: rgba(101, 119, 134, 1);
+}
+
+.arroba {
+    color: rgba(27, 149, 224, 1);
+}
+
+.paragrafo2{
+    margin-left: 60px;
+    margin-top: -27px;
+}
+
+.icones_bottom svg{
+    height: 18.75px;
+    width: 18.75px;
+    margin-left: 135.417px;
+    margin-top: 17.6px;
+    fill: rgba(136, 153, 166, 1);
+}
+
+.div_de_ajuste{
+    margin-left: -75.417px;
+}
+
+.num1 {
+    margin-left: 160px;
+    margin-top: -23px;
+    color: rgba(136, 153, 166, 1);
+}
+
+.icones_aba {
+    fill: rgba(136, 153, 166, 1);
+    display: flex;
+    flex-direction: row;
+}
+
+.principal {
+    margin-left: 20px;
+    height: 40px;
+    width: 40px;
+    margin-top: 30px;
+}
+
+.pesquisa {
+    margin-left: 120px;
+    height: 40px;
+    width: 40px;
+    margin-top: 30px;
+}
+
+.sino {
+    margin-left: 160px;
+    height: 40px;
+    width: 40px;
+    margin-top: 30px;
+}
+
+.mensagem {
+    margin-left: 150px;
+    height: 40px;
+    width: 40px;
+    margin-top: 30px;
+}
